@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-subtitle: INCREC PROJECT
+subtitle: ### INCREC PROJECT
 ---
 
 ### The project
