@@ -21,4 +21,3 @@ Thus, INCREC develops a new theoretical framework that encompasses a) creative s
 - Analyse and classify user preferences in literary translation, and determine why users prefer certain modalities.
 - Analyse and classify how users relate to CSs in translation, define whether user attention and preferences are linked to CSs.
 Analyse the role of raw MT in the reception of literary text/subtitles produced without human intervention. Gather data on how errors, in both HT and MT, affect user attention.
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
